@@ -1,6 +1,6 @@
 # Galeria de Tecnologias
 
-Este é um projeto Full-Stack simples que consiste em uma API REST de backend e uma aplicação de frontend em React. A aplicação exibe uma galeria de tecnologias que pode ser filtrada em tempo real através de um campo de busca.
+Este é um projeto Full-Stack que consiste em uma API REST de backend e uma aplicação de frontend em React. A aplicação exibe uma galeria de tecnologias que pode ser filtrada em tempo real através de um campo de busca.
 
 ## Estrutura do Projeto
 
